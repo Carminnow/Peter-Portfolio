@@ -3,7 +3,7 @@
 
 body {
   background-color: #eae2b7;
-  color: #003049;b
+  color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
 }
@@ -16,8 +16,14 @@ h1 {
 h2 {
   font-family: "Playfair Display", Times, serif;
   text-align: center;
+  font-size: 24px
 }
 h3 {
+  font-family: "Playfair Display", Times, serif;
+  text-align: center;
+  font-size: 18px;
+}
+h4{
   font-family: "Playfair Display", Times, serif;
   text-align: center;
 }
